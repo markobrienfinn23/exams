@@ -1,0 +1,18 @@
+#question 2
+#Mark finn
+
+print("welcome to temperature alert system")
+("enter temperature value here")
+if temper=<20 ("too cold. turn up heating")
+if termer=20-24 ("temperature is just right")
+if termer=>24 ("too warm turn down heating")
+
+
+#question 1
+#Mark finn:
+
+taylorswiftsongs =[love story, shake it off, delicate,wildest dreams, all too well, blank space, bad blood, you belong with me,red,22]#answer to question to (a).
+("enter song here")#answer to question (b).
+else("shake it off")
+song=10
+print("sorry this song is not on the list pick a difftent song")#answer to question (c)
